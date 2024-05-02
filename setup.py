@@ -10,7 +10,7 @@ from setuptools import setup
 setup(
     name='aquaponics_server',  # package name, used at pip or tar.
     version='0.0.0',  # version Nr.... whatever
-    packages=["mhmc_routers"],  # string list of packages to be translated
+    packages=["shmc_routers"],  # string list of packages to be translated
     include_package_data=True,
     url='',  # if url is used at all
     license='',  # ...
